@@ -225,11 +225,5 @@ MIT License
 
 ---
 
-# 👨‍💻 Author
-
-**Your Name**
-
-AI / LLM Engineer
-
 If you like this project, ⭐ the repo and contribute improvements!
 
